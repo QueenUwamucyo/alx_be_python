@@ -1,4 +1,4 @@
-monthly_income = float(input("Enter your monthly salary: "))
+monthly_income = float(input("Enter your monthly income: "))
 monthly_expense = float(input("Enter your total monthly expense: "))
 monthly_savings = monthly_income - monthly_expense
 annual_savings_without_inerest = monthly_savings * 12
