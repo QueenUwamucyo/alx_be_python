@@ -9,7 +9,6 @@ def main():
             print(f"{number} * {i} = {product}")
     except ValueError:
         print("Invalid input. Please enter a numerical value.")
-
 if __name__ == "__main__":
     main()
 
