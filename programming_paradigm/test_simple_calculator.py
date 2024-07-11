@@ -1,5 +1,3 @@
-# simple_calculator.py
-
 class SimpleCalculator:
     """A simple calculator class that supports basic arithmetic operations."""
 
@@ -20,7 +18,6 @@ class SimpleCalculator:
         if b == 0:
             return None
         return a / b
-# test_simple_calculator.py
 
 import unittest
 from simple_calculator import SimpleCalculator
